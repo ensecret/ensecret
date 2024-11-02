@@ -14,7 +14,7 @@
 ---
 
 <!-- О себе -->
-### 🌟 О себе
+### 👩‍💻 О себе
 
 Я Павел, опытный backend-разработчик с сильными навыками в **Go**, **Python**, **C#**, **C++** и **SQL**. Обожаю создавать масштабируемые и эффективные серверные решения, а также работать с современными фреймворками, такими как **React** для создания полноценных приложений.
 
@@ -23,6 +23,8 @@
 - 📚 Читаю книги по психологии и саморазвитию
 - 🧩 Увлекаюсь решением логических головоломок и креативным мышлением
 - 🎨 Интересуюсь цифровым искусством и графическим дизайном
+- 🛠️ Разрабатываю скрипты автоматизации для улучшения рабочих процессов
+- 🌍 Участвую в открытых проектах и вношу свой вклад в сообщество разработчиков
 
 ---
 
@@ -53,6 +55,29 @@
   </a>
   <a href="https://git-scm.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <!-- Новые технологии -->
+  <a href="https://kubernetes.io/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/terraform.svg" alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://www.ansible.com/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ansible.svg" alt="Ansible" width="40" height="40"/>
+  </a>
+  <!-- Добавленные технологии -->
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/powershell/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/powershell.svg" alt="PowerShell" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   </a>
 </div>
 
