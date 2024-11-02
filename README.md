@@ -1,19 +1,90 @@
-<h1 align="center">Привет, меня зовут Павел!<a href="https://daniilshat.ru/" target="_blank"></a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!-- Приветствие и Обложка -->
+<div align="center">
+  <h1>👹 Привет, меня зовут Павел 👹</h1>
+  <p>🚀 Backend-разработчик | Go | Python | C# | C++ | SQL | React</p>
+  
+  <!-- Бейджи с социальными сетями -->
+  <p>
+    <a href="https://github.com/ensecret">
+      <img src="https://img.shields.io/github/followers/ensecret?label=Follow&style=social" alt="GitHub Follow"/>
+    </a>
+  </p>
+</div>
 
+---
 
+<!-- О себе -->
+### 🌟 О себе
 
-<!--
-**ensecret/ensecret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Павел, опытный backend-разработчик с сильными навыками в **Go**, **Python**, **C#**, **C++** и **SQL**. Обожаю создавать масштабируемые и эффективные серверные решения, а также работать с современными фреймворками, такими как **React** для создания полноценных приложений.
 
-Here are some ideas to get you started:
+- 🔭 В данный момент работаю над разработкой высоконагруженных систем и оптимизацией серверной архитектуры
+- 🌱 Изучаю искусственный интеллект и машинное обучение для интеграции в backend-сервисы
+- 📚 Читаю книги по психологии и саморазвитию
+- 🧩 Увлекаюсь решением логических головоломок и креативным мышлением
+- 🎨 Интересуюсь цифровым искусством и графическим дизайном
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Навыки -->
+### 🛠 Навыки
+
+<div align="center">
+  <a href="https://golang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+</div>
+
+---
+
+<!-- GitHub Trophies -->
+### 🏆 Достижения на GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ensecret&theme=onedark" alt="Trophies"/>
+</div>
+
+---
+
+<!-- Статистика GitHub -->
+### 📈 Статистика GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ensecret&show_icons=true&theme=radical" alt="Павел GitHub Статистика" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensecret&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
+<!-- Цитата -->
+### 💬 Моя любимая цитата
+
+> "Код — это не просто строки, это мост между идеей и реальностью."  
+
+---
+
+<!-- Благодарности -->
+### 🙏 Благодарности
+
+Спасибо за посещение моего профиля! Буду рад сотрудничеству и обмену идеями.
